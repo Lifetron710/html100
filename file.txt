@@ -1,1 +1,2 @@
 Hello, I'm now in the file!
+This is the second line.
